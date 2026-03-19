@@ -18,6 +18,15 @@ body {
   position: relative;
   font-family: 'Times New Roman', Times, serif;
 }
+.fotoPerfil {
+  width: 150px;
+  height: auto;
+  border-radius: 50%;
+  margin-top: 20px;
+  position: absolute ;
+  top: 20px;
+  right: 20px;
+}
 
 .subtitulo {
   color: darkgreen;
